@@ -7,5 +7,6 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
-
-the project was simple .
+*no new skills in this project
+*the project was simple .
+* I was able to copy and paste the texts,image and url from index.html file which was given as reference to the project.
